@@ -34,6 +34,7 @@ Spotlight is a small, self-hosted music player for a laptop and the tablet on th
 ## ✨ Features
 
 - Browse, search, and stream tracks over your home network.
+- Browse the collection by artist or album, and create browser-local playlists.
 - Touch-friendly play, pause, previous, next, seek, shuffle, repeat, and volume controls.
 - Queue tracks and save favourites in the browser.
 - Load matching LRC files and follow lyrics as the song plays.
@@ -132,8 +133,7 @@ Desktop checks cannot establish iOS 9 behavior. No original iPad mini was availa
 ## 🚧 Planned / Coming Soon
 
 - Embedded album-art extraction.
-- Persistent playlists and broader library views by artist and album.
-- Dedicated queue management and robust previous-track history.
+- Queue editing and previous-track history.
 - More device-specific verification and a broader media test set.
 
 ## ➕ Contributing

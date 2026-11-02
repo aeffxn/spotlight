@@ -64,6 +64,7 @@ class HTTPTests(unittest.TestCase):
     def test_unknown_track_cannot_reach_files(self):
         with self.assertRaises(HTTPError) as err: urlopen(self.base + "/media/../../server.py")
         self.assertEqual(err.exception.code, 404)
+        err.exception.close()
 
     def test_library_json(self):
         data = json.loads(urlopen(self.base + "/api/library").read().decode("utf-8"))
