@@ -134,6 +134,8 @@ Desktop checks cannot establish iOS 9 behavior. No original iPad mini was availa
 
 - Embedded album-art extraction.
 - Queue editing and previous-track history.
+- A dedicated lyrics focus screen and adjustable lyric offset.
+- More library sorting options and playback-state restore after reload.
 - More device-specific verification and a broader media test set.
 
 ## ➕ Contributing
