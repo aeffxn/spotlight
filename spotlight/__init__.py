@@ -1,0 +1,1 @@
+"""Spotlight local music server."""

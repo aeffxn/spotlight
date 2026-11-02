@@ -1,0 +1,2 @@
+# Optional; Spotlight runs without third-party packages.
+mutagen>=1.47,<2
